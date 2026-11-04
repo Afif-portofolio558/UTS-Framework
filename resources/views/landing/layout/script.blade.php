@@ -1,0 +1,15 @@
+    <script src="{{ asset('landing/js/jquery.min.js') }}"></script>
+    <script src="{{ asset('landing/js/popper.min.js') }}"></script>
+    <script src="{{ asset('landing/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('landing/js/owl.carousel.js') }}"></script>
+    <script src="{{ asset('landing/js/contact-form.js') }}"></script>
+    <script src="{{ asset('landing/js/video-popup.js') }}"></script>
+    <script src="{{ asset('landing/js/video-section.js') }}"></script>
+    <script src="{{ asset('landing/js/jquery.validate.js') }}"></script>
+    <script src="{{ asset('landing/js/wow.js') }}"></script>
+    <script src="{{ asset('landing/js/counter.js') }}"></script>
+    <script src="{{ asset('landing/js/jquery-ui.js') }}"></script>
+    <script src="{{ asset('landing/js/jquery.royalslider.min.js') }}"></script>
+    <script src="{{ asset('landing/js/jquery.easing-1.3.js') }}"></script>
+    <script src="{{ asset('landing/js/custom.js') }}"></script>
+    <script src="{{ asset('landing/js/search.js') }}"></script>
